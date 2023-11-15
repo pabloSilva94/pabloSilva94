@@ -1,16 +1,25 @@
-### Hi there 👋
+### 👋 Olá, eu sou Pablo Almeida Silva
 
-<!--
-**pabloSilva94/pabloSilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou explorando o mundo do desenvolvimento web
+- 🎓 Graduado em Técnico em Informática na QI Faculdade & Escola Técnica 
+- 🚀 Apaixonado por construir experiências web incríveis usando HTML, CSS, React e Node
+- 📫 Como me encontrar: ([Pablo Almeida](https://www.linkedin.com/in/pablo-almeida-silva51/))
 
-Here are some ideas to get you started:
+### 🔧 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens de Programação: HTML, CSS, JavaScript
+- Bibliotecas e Frameworks: React, Node
+
+
+### 📈 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/pabloSilva94)
+
+### 📚 Projetos Destacados
+
+- [Bit Ticket](https://github.com/pabloSilva94/bit-ticket): Ferramenta para criar chamados.
+- [Todo List](https://github.com/pabloSilva94/todolist): Aplicação JWT para criar lista de tarefas.
+
+### 🤝 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/pablo-almeida-silva51/)
