@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou Pablo Almeida Silva
+### 👋 Olá, eu sou Pablo Almeida
 
 - 🌱 Atualmente estou explorando o mundo do desenvolvimento web
 - 🎓 Graduado em Técnico em Informática na QI Faculdade & Escola Técnica 
