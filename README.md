@@ -18,7 +18,8 @@
 ### 📚 Projetos Destacados
 
 - [Bit Ticket](https://github.com/pabloSilva94/bit-ticket): Ferramenta para criar chamados.
-- [Todo List](https://github.com/pabloSilva94/todolist): Aplicação JWT para criar lista de tarefas.
+- [Todo List](https://github.com/pabloSilva94/todolist): Aplicação PWA para criar lista de tarefas.
+- [Pipe Manager](https://github.com/pabloSilva94/pipemanager): Ferramenta Kanban para fazer a gestão de chamados.
 
 ### 🤝 Conecte-se Comigo
 
