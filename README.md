@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou explorando o mundo do desenvolvimento web
 - 🎓 Graduado em Técnico em Informática na QI Faculdade & Escola Técnica
-- 🗃️ Meta Front-End Developer
+- 🗃️ Professional Certificate Meta Front-End Developer
 - 🚀 Apaixonado por construir experiências web incríveis usando HTML, CSS, React e Node
 - 📫 Como me encontrar: ([Pablo Almeida](https://www.linkedin.com/in/pablo-almeida-silva51/))
 
