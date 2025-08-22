@@ -8,7 +8,7 @@
 
 ### 🔧 Tecnologias e Ferramentas
 
-- Linguagens de Programação: HTML, CSS, JavaScript
+- Linguagens de Programação: C#, Kotlin, HTML, CSS, JavaScript
 - Bibliotecas e Frameworks: React, Node
 
 
